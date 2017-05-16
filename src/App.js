@@ -42,7 +42,7 @@ class App extends Component {
                     <h1>Welcome to Argelpargel!</h1>
                 </div>
                 <p className="App-intro">
-                    You've come to the right place to hang out with your friends,
+                    OIS - You've come to the right place to hang out with your friends,
                     chill and talk about Argel and Pargel. This is clearly a Good Thing<sup>TM</sup>
                 </p>
                 <p>
